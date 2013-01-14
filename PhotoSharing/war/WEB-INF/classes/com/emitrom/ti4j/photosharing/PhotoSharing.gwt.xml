@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module rename-to='photosharing'>
+  <inherits name='com.emitrom.gwt4.ti.mobile.Timobile'/>
+   <set-property name="user.agent" value="timobile" />
+   
+  <!-- Specify the app entry point class.                         -->
+  <entry-point class='com.emitrom.ti4j.photosharing.client.PhotoSharing'/>
+
+  <!-- Specify the paths for translatable code                    -->
+  <source path='client'/>
+  <source path='shared'/>
+
+</module>
