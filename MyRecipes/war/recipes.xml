@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>Latest recipes - Taste.com.au</title>
+        <link>http://www.taste.com.au</link>
+        <description>Check out the latest recipes from Taste.com.au.</description>
+        <language>en-au</language>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <managingEditor>info@taste.com.au</managingEditor>
+        <webMaster>admin@taste.com.au</webMaster>
+        <item>
+            <title>Beef Singapore curry</title>
+            <link>http://www.taste.com.au/recipes/28892/beef+singapore+curry</link>
+            <description>Beef and potato is lovingly stewed until tender and juicy...</description>
+        </item>
+        <item>
+            <title>Spicy prawn fried rice</title>
+            <link>http://www.taste.com.au/recipes/28511/spicy+prawn+fried+rice</link>
+            <description>Enjoy the hot summer nights with this easy spicy prawn rice...</description>
+        </item>
+        <item>
+            <title>Lamb shanks with tamarind and prunes</title>
+            <link>http://www.taste.com.au/recipes/29789/lamb+shanks+with+tamarind+and+prunes</link>
+            <description>After a wild goose chase, Marion is, er, struck by a new...</description>
+        </item>
+        <item>
+            <title>Coconut &amp; kaffir lime panna cottas</title>
+            <link>http://www.taste.com.au/recipes/29787/coconut+kaffir+lime+panna+cottas</link>
+            <description>Fresh strawberries and kaffir lime leaves add a nice tang...</description>
+        </item>
+        <item>
+            <title>Fig &amp; fried goat&#039;s cheese salad with balsamic syrup</title>
+            <link>http://www.taste.com.au/recipes/29775/fig+fried+goats+cheese+salad+with+balsamic+syrup</link>
+            <description>With figs finally in season, Marion Grasby ups the ante...</description>
+        </item>
+        <item>
+            <title>Chocolate nests</title>
+            <link>http://www.taste.com.au/recipes/29275/chocolate+nests</link>
+            <description>Impress friends and family with these precious Easter...</description>
+        </item>
+        <item>
+            <title>Easter slice</title>
+            <link>http://www.taste.com.au/recipes/29273/easter+slice</link>
+            <description>These choc-coconut slices are smothered in rich ganache and...</description>
+        </item>
+        <item>
+            <title>Easter bunny cupcakes</title>
+            <link>http://www.taste.com.au/recipes/29271/easter+bunny+cupcakes</link>
+            <description>These cute Easter bunnies don&#039;t just look fabulous!...</description>
+        </item>
+        <item>
+            <title>Caramel-filled chocolate eggs</title>
+            <link>http://www.taste.com.au/recipes/29269/caramel+filled+chocolate+eggs</link>
+            <description>The little ones will love creating their very own colourful...</description>
+        </item>
+        <item>
+            <title>Tomato, chilli and basil pasta</title>
+            <link>http://www.taste.com.au/recipes/29267/tomato+chilli+and+basil+pasta</link>
+            <description>Olives and fresh herbs take this simple arrabiata pasta to...</description>
+        </item>
+    </channel>
+</rss>
